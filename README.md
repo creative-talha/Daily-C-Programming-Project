@@ -34,8 +34,8 @@ _(The list will keep growing as I continue my daily practice.)_
 
 ## 🛠️ Tools & Setup
 - **Language:** C (GCC compiler)  
-- **Editor/IDE:** Code::Blocks / VS Code / Linux Terminal  
-- **OS:** Ubuntu / Windows  
+- **Editor/IDE:** Code::Blocks  
+- **OS:** Ubuntu 
 
 To run any program:
 ```bash
